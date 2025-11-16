@@ -56,9 +56,7 @@ int main(void)
 
 ##OUTPUT
 
-<img width="1031" height="78" alt="image" src="https://github.com/user-attachments/assets/c8f1f6e9-475d-402d-8a67-3cea30c4ca63" />
-
-<img width="1029" height="72" alt="image" src="https://github.com/user-attachments/assets/e72c984f-40dc-4dd6-8d62-3994e876c04f" />
+<img width="309" height="78" alt="Screenshot from 2025-11-16 13-35-53" src="https://github.com/user-attachments/assets/23504784-9f9c-42e2-8c8c-3ebb10141185" />
 
 
 
@@ -103,7 +101,8 @@ int main() {
 
 ##OUTPUT
 
-<img width="1031" height="237" alt="image" src="https://github.com/user-attachments/assets/4b953ca3-c1e3-4a5d-b8b1-2b9f276d56c8" />
+<img width="550" height="97" alt="image" src="https://github.com/user-attachments/assets/d07fc918-40e5-4362-b245-64ea6386c71b" />
+
 
 
 
